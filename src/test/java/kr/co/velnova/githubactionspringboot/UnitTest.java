@@ -10,7 +10,6 @@ class UnitTest {
     @Test
     void test() {
         assertThat(true).isFalse();
-
     }
 
 }
